@@ -30,6 +30,8 @@ function SearchBar() {
         onChange={(e) => setSerch(e.target.value)}
 
         />
+
+       
     </Paper>
   )
 }
